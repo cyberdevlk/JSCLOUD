@@ -1,5 +1,5 @@
 {
-"replaceDomain" : "https://cloud02.cskinglk.xyz/",
+"replaceDomain" : "https://cloud02.cskinglk.xyz",
 "buttons": {
      "tg":"/tg",
      "direct" : "/swatch"
