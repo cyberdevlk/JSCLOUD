@@ -1,5 +1,5 @@
 {
-"replaceDomain" : "https://cloud02.cskinglk.xyz",
+"replaceDomain" : "https://imav2.cskinglk.xyz",
 "buttons": {
      "tg":"/tg",
      "direct" : "/swatch"
