@@ -1,5 +1,5 @@
 {
-"replaceDomain" : "https://imav2.cskinglk.xyz",
+"replaceDomain" : "https://tgold.cscloud12.online",
 "buttons": {
      "tg":"/tg",
      "direct" : "/swatch"
